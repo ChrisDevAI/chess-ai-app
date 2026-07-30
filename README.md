@@ -8,15 +8,6 @@ The system uses Stockfish for reliable position analysis and best-move generatio
 
 ---
 
-## Live Demo
-
-**Frontend-only demo:**  
-https://chess-ai-tutor-react.web.app
-
-> Full functionality requires running the backend locally.
-
----
-
 ## Why This Project
 
 Most chess tools are strong at calculation but weak at teaching. Chess AI Tutor was built to bridge that gap by separating the system into two clear roles:
